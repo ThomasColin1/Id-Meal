@@ -1,0 +1,569 @@
+﻿Ingredient 001	Allspice	FRingredient 001	Quatre epices	Calorie 001	0	gr_ingredient 001	Quatre epices	Categorie 001	Condiments
+Ingredient 002	Ancho Chillies	FRingredient 002	piments larges	Calorie 002	376	gr_ingredient 002	Piment	Categorie 002	Condiments
+Ingredient 003	Apple Cider Vinegar	FRingredient 003	Vinaigre de cidre de pomme	Calorie 003	20	gr_ingredient 003	Vinaigre	Categorie 003	Condiments
+Ingredient 004	Balsamic Vinegar	FRingredient 004	Vinaigre balsamique	Calorie 004	124	gr_ingredient 004	Vinaigre	Categorie 004	Condiments
+Ingredient 005	Barbeque Sauce	FRingredient 005	Sauce barbecue	Calorie 005	0	gr_ingredient 005	Sauce barbecue	Categorie 005	Condiments
+Ingredient 006	Basil	FRingredient 006	Basilic	Calorie 006	0	gr_ingredient 006	Basilic	Categorie 006	Condiments
+Ingredient 007	Basil Leaves	FRingredient 007	Feuilles de basilic	Calorie 007	0	gr_ingredient 007	Basilic	Categorie 007	Condiments
+Ingredient 008	Bay Leaf	FRingredient 008	feuille de laurier	Calorie 008	0	gr_ingredient 008	Laurier	Categorie 008	Condiments
+Ingredient 009	Bay Leaves	FRingredient 009	Feuilles de laurier	Calorie 009	0	gr_ingredient 009	Laurier	Categorie 009	Condiments
+Ingredient 010	Beef Stock	FRingredient 010	bouillon de boeuf	Calorie 010	243	gr_ingredient 010	Bouillon	Categorie 010	Condiments
+Ingredient 011	Beef Stock Concentrate	FRingredient 011	bouillon de boeuf concentre	Calorie 011	100	gr_ingredient 011	Bouillon	Categorie 011	Condiments
+Ingredient 012	Bicarbonate Of Soda	FRingredient 012	Bicarbonate de soude	Calorie 012	0	gr_ingredient 012	Bicarbonate de soude	Categorie 012	Condiments
+Ingredient 013	Biryani Masala	FRingredient 013	biryani Masala	Calorie 013	111	gr_ingredient 013	biryani Masala	Categorie 013	Condiments
+Ingredient 014	Black Pepper	FRingredient 014	Poivre noir	Calorie 014	0	gr_ingredient 014	Poivre	Categorie 014	Condiments
+Ingredient 015	Bouquet Garni	FRingredient 015	Bouquet Garni	Calorie 015	0	gr_ingredient 015	Bouquet Garni	Categorie 015	Condiments
+Ingredient 016	Cajun	FRingredient 016	epices cajun	Calorie 016	40	gr_ingredient 016	epices cajun	Categorie 016	Condiments
+Ingredient 017	Canola Oil	FRingredient 017	Huile de canola	Calorie 017	810	gr_ingredient 017	Huile de canola	Categorie 017	Condiments
+Ingredient 018	Cardamom	FRingredient 018	Cardamome	Calorie 018	0	gr_ingredient 018	Cardamome	Categorie 018	Condiments
+Ingredient 019	Cashew Nuts	FRingredient 019	Noix de cajou	Calorie 019	553	gr_ingredient 019	Noix de cajou	Categorie 019	Condiments
+Ingredient 020	Cashews	FRingredient 020	Noix de cajou	Calorie 020	553	gr_ingredient 020	Noix de cajou	Categorie 020	Condiments
+Ingredient 021	Cayenne Pepper	FRingredient 021	Poivre de Cayenne	Calorie 021	0	gr_ingredient 021	Poivre	Categorie 021	Condiments
+Ingredient 022	Celery Salt	FRingredient 022	Sel de celeri	Calorie 022	0	gr_ingredient 022	Sel de celeri	Categorie 022	Condiments
+Ingredient 023	Challots	FRingredient 023	echallotes	Calorie 023	0	gr_ingredient 023	echallotes	Categorie 023	Condiments
+Ingredient 024	Chicken Stock	FRingredient 024	Bouillon de Poulet	Calorie 024	9	gr_ingredient 024	Bouillon	Categorie 024	Condiments
+Ingredient 025	Chicken Stock Concentrate	FRingredient 025	Bouillon de poulet concentre	Calorie 025	15	gr_ingredient 025	Bouillon	Categorie 025	Condiments
+Ingredient 026	Chicken Stock Cube	FRingredient 026	Bouillon de poulet Cube	Calorie 026	172	gr_ingredient 026	Bouillon	Categorie 026	Condiments
+Ingredient 027	Chili Powder	FRingredient 027	Piment en poudre	Calorie 027	0	gr_ingredient 027	Piment	Categorie 027	Condiments
+Ingredient 028	Chilli	FRingredient 028	piment	Calorie 028	40	gr_ingredient 028	Piment	Categorie 028	Condiments
+Ingredient 029	Chilli Powder	FRingredient 029	Poudre de piment	Calorie 029	0	gr_ingredient 029	Piment	Categorie 029	Condiments
+Ingredient 030	Chives	FRingredient 030	Ciboulette	Calorie 030	0	gr_ingredient 030	Ciboulette	Categorie 030	Condiments
+Ingredient 031	Chopped Onion	FRingredient 031	Oignon hache	Calorie 031	55	gr_ingredient 031	Oignon	Categorie 031	Condiments
+Ingredient 032	Chopped Parsley	FRingredient 032	persil	Calorie 032	0	gr_ingredient 032	Persil	Categorie 032	Condiments
+Ingredient 033	Cilantro	FRingredient 033	Coriandre	Calorie 033	0	gr_ingredient 033	Coriandre	Categorie 033	Condiments
+Ingredient 034	Cinnamon	FRingredient 034	Cannelle	Calorie 034	0	gr_ingredient 034	Cannelle	Categorie 034	Condiments
+Ingredient 035	Cinnamon Stick	FRingredient 035	Baton de cannelle	Calorie 035	0	gr_ingredient 035	Canelle	Categorie 035	Condiments
+Ingredient 036	Cloves	FRingredient 036	Clous de girofle	Calorie 036	0	gr_ingredient 036	Clous de girofle	Categorie 036	Condiments
+Ingredient 037	Coriander	FRingredient 037	Coriandre	Calorie 037	0	gr_ingredient 037	Coriandre	Categorie 037	Condiments
+Ingredient 038	Coriander Leaves	FRingredient 038	Feuilles de coriandre	Calorie 038	0	gr_ingredient 038	Coriandre	Categorie 038	Condiments
+Ingredient 039	Coriander Seeds	FRingredient 039	Graines de coriandre	Calorie 039	0	gr_ingredient 039	Graines de coriandre	Categorie 039	Condiments
+Ingredient 040	Cumin	FRingredient 040	Cumin	Calorie 040	0	gr_ingredient 040	Cumin	Categorie 040	Condiments
+Ingredient 041	Cumin Seeds	FRingredient 041	Graines de cumin	Calorie 041	0	gr_ingredient 041	Cumin	Categorie 041	Condiments
+Ingredient 042	Curry Powder	FRingredient 042	Poudre de curry	Calorie 042	0	gr_ingredient 042	Curry	Categorie 042	Condiments
+Ingredient 043	Dark Soy Sauce	FRingredient 043	Sauce soja	Calorie 043	53	gr_ingredient 043	Sauce soja	Categorie 043	Condiments
+Ingredient 044	Dijon Mustard	FRingredient 044	moutarde de dijon	Calorie 044	0	gr_ingredient 044	Moutarde	Categorie 044	Condiments
+Ingredient 045	Dill	FRingredient 045	aneth	Calorie 045	0	gr_ingredient 045	aneth	Categorie 045	Condiments
+Ingredient 046	Dill Pickles	FRingredient 046	Cornichons Ã  l'aneth	Calorie 046	11	gr_ingredient 046	Cornichons Ã  l'aneth	Categorie 046	Condiments
+Ingredient 047	Doubanjiang	FRingredient 047	sauce doubanjiang	Calorie 047	25	gr_ingredient 047	sauce doubanjiang	Categorie 047	Condiments
+Ingredient 048	Dried Oregano	FRingredient 048	Origan seche	Calorie 048	0	gr_ingredient 048	Origan seche	Categorie 048	Condiments
+Ingredient 049	Duck Sauce	FRingredient 049	Sauce de canard	Calorie 049	146	gr_ingredient 049	Sauce de canard	Categorie 049	Condiments
+Ingredient 050	Egg Rolls	FRingredient 050	nems	Calorie 050	234	gr_ingredient 050	nems	Categorie 050	Condiments
+Ingredient 051	Enchilada Sauce	FRingredient 051	sauce enchilada	Calorie 051	28,7	gr_ingredient 051	sauce enchilada	Categorie 051	Condiments
+Ingredient 052	English Mustard	FRingredient 052	Moutarde anglaise	Calorie 052	0	gr_ingredient 052	Moutarde	Categorie 052	Condiments
+Ingredient 053	Fajita Seasoning	FRingredient 053	Assaisonnement pour fajitas	Calorie 053	314	gr_ingredient 053	Assaisonnement pour fajitas	Categorie 053	Condiments
+Ingredient 054	Fennel Seeds	FRingredient 054	Graines de fenouil	Calorie 054	0	gr_ingredient 054	Graines de fenouil	Categorie 054	Condiments
+Ingredient 055	Fenugreek	FRingredient 055	Fenugrec	Calorie 055	323	gr_ingredient 055	Fenugrec	Categorie 055	Condiments
+Ingredient 056	Fish Sauce	FRingredient 056	Sauce poisson	Calorie 056	35	gr_ingredient 056	Sauce poisson	Categorie 056	Condiments
+Ingredient 057	Fish Stock	FRingredient 057	fumet de poissons	Calorie 057	278	gr_ingredient 057	fumet de poissons	Categorie 057	Condiments
+Ingredient 058	Fresh Basil	FRingredient 058	Basilic frais	Calorie 058	0	gr_ingredient 058	Basilic	Categorie 058	Condiments
+Ingredient 059	Fresh Thyme	FRingredient 059	Thym frais	Calorie 059	0	gr_ingredient 059	Thym	Categorie 059	Condiments
+Ingredient 060	Freshly Chopped Parsley	FRingredient 060	Persil fraichement hache	Calorie 060	0	gr_ingredient 060	Persil	Categorie 060	Condiments
+Ingredient 061	Garam Masala	FRingredient 061	Garam masala	Calorie 061	0	gr_ingredient 061	Garam masala	Categorie 061	Condiments
+Ingredient 062	Garlic	FRingredient 062	Ail	Calorie 062	131	gr_ingredient 062	Ail	Categorie 062	Condiments
+Ingredient 063	Garlic Clove	FRingredient 063	Gousse d'ail	Calorie 063	0	gr_ingredient 063	Ail	Categorie 063	Condiments
+Ingredient 064	Garlic Powder	FRingredient 064	Poudre d'ail	Calorie 064	0	gr_ingredient 064	Ail	Categorie 064	Condiments
+Ingredient 065	Garlic Sauce	FRingredient 065	Sauce Ã  l'ail	Calorie 065	760	gr_ingredient 065	Sauce Ã  l'ail	Categorie 065	Condiments
+Ingredient 066	Gherkin Relish	FRingredient 066	Sauce relish	Calorie 066	251	gr_ingredient 066	Sauce relish	Categorie 066	Condiments
+Ingredient 067	Ginger	FRingredient 067	Gingembre	Calorie 067	80	gr_ingredient 067	Gingembre	Categorie 067	Condiments
+Ingredient 068	Ginger Cordial	FRingredient 068	Gingembre	Calorie 068	80	gr_ingredient 068	Gingembre	Categorie 068	Condiments
+Ingredient 069	Ginger Garlic Paste	FRingredient 069	Pate d'ail au gingembre	Calorie 069	324	gr_ingredient 069	Pate de gingembre	Categorie 069	Condiments
+Ingredient 070	Ginger Paste	FRingredient 070	Pate de gingembre	Calorie 070	324	gr_ingredient 070	Pate de gingembre	Categorie 070	Condiments
+Ingredient 071	Gochujang	FRingredient 071	Gochujang	Calorie 071	30	gr_ingredient 071	Gochujang	Categorie 071	Condiments
+Ingredient 072	Goose Fat	FRingredient 072	graisse d'oie	Calorie 072	898	gr_ingredient 072	graisse d'oie	Categorie 072	Condiments
+Ingredient 073	Green Chilli	FRingredient 073	Piment vert	Calorie 073	26	gr_ingredient 073	Piment vert	Categorie 073	Condiments
+Ingredient 074	Green Pepper	FRingredient 074	Poivre vert	Calorie 074	0	gr_ingredient 074	Poivre	Categorie 074	Condiments
+Ingredient 075	Green Salsa	FRingredient 075	sauce salsa verte	Calorie 075	38	gr_ingredient 075	sauce salsa verte	Categorie 075	Condiments
+Ingredient 076	Ground Cumin	FRingredient 076	Cumin en poudre	Calorie 076	0	gr_ingredient 076	Cumin	Categorie 076	Condiments
+Ingredient 077	Ground Ginger	FRingredient 077	Gingembre moulu	Calorie 077	80	gr_ingredient 077	Gingembre	Categorie 077	Condiments
+Ingredient 078	Harissa Spice	FRingredient 078	Harissa epice	Calorie 078	70	gr_ingredient 078	Harissa epice	Categorie 078	Condiments
+Ingredient 079	Horseradish	FRingredient 079	Raifort	Calorie 079	70	gr_ingredient 079	Raifort	Categorie 079	Condiments
+Ingredient 080	Hot Beef Stock	FRingredient 080	bouillon de boeuf chaud	Calorie 080	243	gr_ingredient 080	Bouillon	Categorie 080	Condiments
+Ingredient 081	Hotsauce	FRingredient 081	Sauce piquante	Calorie 081	0	gr_ingredient 081	Sauce piquante	Categorie 081	Condiments
+Ingredient 082	Italian Seasoning	FRingredient 082	Assaisonnement italien	Calorie 082	0	gr_ingredient 082	Assaisonnement italien	Categorie 082	Condiments
+Ingredient 083	Jalapeno	FRingredient 083	Jalapeno	Calorie 083	28	gr_ingredient 083	Jalapeno	Categorie 083	Condiments
+Ingredient 084	Kosher Salt	FRingredient 084	casher sel	Calorie 084	0	gr_ingredient 084	Sel	Categorie 084	Condiments
+Ingredient 085	Lard	FRingredient 085	Saindoux	Calorie 085	898	gr_ingredient 085	Saindoux	Categorie 085	Condiments
+Ingredient 086	Madras Paste	FRingredient 086	pate de curry madras	Calorie 086	260	gr_ingredient 086	Curry	Categorie 086	Condiments
+Ingredient 087	Malt Vinegar	FRingredient 087	Vinaigre de malt	Calorie 087	20	gr_ingredient 087	Vinaigre de malt	Categorie 087	Condiments
+Ingredient 088	Marjoram	FRingredient 088	Marjolaine	Calorie 088	0	gr_ingredient 088	Marjolaine	Categorie 088	Condiments
+Ingredient 089	Massaman Curry Paste	FRingredient 089	Massaman PÃ¢te de Curry	Calorie 089	241	gr_ingredient 089	Curry	Categorie 089	Condiments
+Ingredient 090	Mayonnaise	FRingredient 090	Mayonnaise	Calorie 090	680	gr_ingredient 090	Mayonnaise	Categorie 090	Condiments
+Ingredient 091	Minced Garlic	FRingredient 091	Ail hache	Calorie 091	133	gr_ingredient 091	Ail	Categorie 091	Condiments
+Ingredient 092	Mint	FRingredient 092	Menthe	Calorie 092	0	gr_ingredient 092	Menthe	Categorie 092	Condiments
+Ingredient 093	Mirin	FRingredient 093	Mirin	Calorie 093	233	gr_ingredient 093	Mirin	Categorie 093	Condiments
+Ingredient 094	Mixed Spice	FRingredient 094	Melange d'epice	Calorie 094	0	gr_ingredient 094	Melange d'epice	Categorie 094	Condiments
+Ingredient 095	Mulukhiyah	FRingredient 095	Mulukhiyah	Calorie 095	34	gr_ingredient 095	Mulukhiyah	Categorie 095	Condiments
+Ingredient 096	Mustard	FRingredient 096	Moutarde	Calorie 096	66	gr_ingredient 096	Moutarde	Categorie 096	Condiments
+Ingredient 097	Mustard Powder	FRingredient 097	Moutarde en poudre	Calorie 097	0	gr_ingredient 097	Graine de moutarde	Categorie 097	Condiments
+Ingredient 098	Mustard Seeds	FRingredient 098	Graines de moutarde	Calorie 098	0	gr_ingredient 098	Graines de moutarde	Categorie 098	Condiments
+Ingredient 099	Nutmeg	FRingredient 099	Noix de muscade	Calorie 099	0	gr_ingredient 099	Noix de muscade	Categorie 099	Condiments
+Ingredient 100	Oil	FRingredient 100	huile	Calorie 100	884	gr_ingredient 100	Huile	Categorie 100	Condiments
+Ingredient 101	Olive Oil	FRingredient 101	Huile d'olive	Calorie 101	884	gr_ingredient 101	Huile	Categorie 101	Condiments
+Ingredient 102	Onion	FRingredient 102	Oignon	Calorie 102	40	gr_ingredient 102	Oignon	Categorie 102	Condiments
+Ingredient 103	Onion Salt	FRingredient 103	oignon sel	Calorie 103	40	gr_ingredient 103	Oignon	Categorie 103	Condiments
+Ingredient 104	Onions	FRingredient 104	Oignons	Calorie 104	40	gr_ingredient 104	Oignon	Categorie 104	Condiments
+Ingredient 105	Orange Zest	FRingredient 105	Zeste d'orange	Calorie 105	0	gr_ingredient 105	Oignon	Categorie 105	Condiments
+Ingredient 106	Oregano	FRingredient 106	Origan	Calorie 106	0	gr_ingredient 106	Origan	Categorie 106	Condiments
+Ingredient 107	Oxtail	FRingredient 107	Soupe Ã  la queue de boeuf	Calorie 107	28	gr_ingredient 107	Soupe Ã  la queue de boeuf	Categorie 107	Condiments
+Ingredient 108	Oyster Sauce	FRingredient 108	Sauce huitre	Calorie 108	51	gr_ingredient 108	Sauce huitre	Categorie 108	Condiments
+Ingredient 109	Paprika	FRingredient 109	Paprika	Calorie 109	0	gr_ingredient 109	Paprika	Categorie 109	Condiments
+Ingredient 110	Parsley	FRingredient 110	Persil	Calorie 110	0	gr_ingredient 110	Persil	Categorie 110	Condiments
+Ingredient 111	Peanut Brittle	FRingredient 111	pot de beurre de cacahuete	Calorie 111	588	gr_ingredient 111	Beurre d'arachide	Categorie 111	Condiments
+Ingredient 112	Peanut Butter	FRingredient 112	Beurre d'arachide	Calorie 112	588	gr_ingredient 112	Beurre d'arachide	Categorie 112	Condiments
+Ingredient 113	Peanut Oil	FRingredient 113	Huile d'arachide	Calorie 113	884	gr_ingredient 113	Huile	Categorie 113	Condiments
+Ingredient 114	Pepper	FRingredient 114	Poivre	Calorie 114	0	gr_ingredient 114	Poivre	Categorie 114	Condiments
+Ingredient 115	Pickle Juice	FRingredient 115	Jus de cornichon	Calorie 115	0	gr_ingredient 115	Jus de cornichon	Categorie 115	Condiments
+Ingredient 116	Pine Nuts	FRingredient 116	Pignons de pin	Calorie 116	673	gr_ingredient 116	Pignons de pin	Categorie 116	Condiments
+Ingredient 117	Rapeseed Oil	FRingredient 117	L'huile de colza	Calorie 117	884	gr_ingredient 117	L'huile de colza	Categorie 117	Condiments
+Ingredient 118	Ras El Hanout	FRingredient 118	Ras El Hanout	Calorie 118	0	gr_ingredient 118	Ras El Hanout	Categorie 118	Condiments
+Ingredient 119	Red Chile Flakes	FRingredient 119	Red Chili Flakes	Calorie 119	0	gr_ingredient 119	Piment	Categorie 119	Condiments
+Ingredient 120	Red Chilli	FRingredient 120	Piment rouge	Calorie 120	40	gr_ingredient 120	Piment	Categorie 120	Condiments
+Ingredient 121	Red Chilli Powder	FRingredient 121	Poudre de piment rouge	Calorie 121	0	gr_ingredient 121	Piment	Categorie 121	Condiments
+Ingredient 122	Red Onions	FRingredient 122	Oignons rouges	Calorie 122	42	gr_ingredient 122	Oignons rouges	Categorie 122	Condiments
+Ingredient 123	Red Pepper Flakes	FRingredient 123	Flocons de piment rouge	Calorie 123	0	gr_ingredient 123	Piment	Categorie 123	Condiments
+Ingredient 124	Red Wine Vinegar	FRingredient 124	Vinaigre de vin rouge	Calorie 124	22	gr_ingredient 124	Vinaigre	Categorie 124	Condiments
+Ingredient 125	Rice Vinegar	FRingredient 125	Vinaigre de riz	Calorie 125	30	gr_ingredient 125	Vinaigre de riz	Categorie 125	Condiments
+Ingredient 126	Rosemary	FRingredient 126	Romarin	Calorie 126	0	gr_ingredient 126	Romarin	Categorie 126	Condiments
+Ingredient 127	Saffron	FRingredient 127	Safran	Calorie 127	0	gr_ingredient 127	Safran	Categorie 127	Condiments
+Ingredient 128	Sage	FRingredient 128	sauge	Calorie 128	0	gr_ingredient 128	Sauge	Categorie 128	Condiments
+Ingredient 129	Salsa	FRingredient 129	sauce salsa	Calorie 129	36	gr_ingredient 129	sauce salsa	Categorie 129	Condiments
+Ingredient 130	Salt	FRingredient 130	Le sel	Calorie 130	0	gr_ingredient 130	Sel	Categorie 130	Condiments
+Ingredient 131	Scallions	FRingredient 131	Oignons verts	Calorie 131	32	gr_ingredient 131	Oignon	Categorie 131	Condiments
+Ingredient 132	Sea Salt	FRingredient 132	Sel de mer	Calorie 132	0	gr_ingredient 132	Sel	Categorie 132	Condiments
+Ingredient 133	Sesame Seed	FRingredient 133	Sesame	Calorie 133	0	gr_ingredient 133	Sesame	Categorie 133	Condiments
+Ingredient 134	Sesame Seed Oil	FRingredient 134	Huile de sesame	Calorie 134	884	gr_ingredient 134	Huile	Categorie 134	Condiments
+Ingredient 135	Shallots	FRingredient 135	Echalottes	Calorie 135	72	gr_ingredient 135	Echalottes	Categorie 135	Condiments
+Ingredient 136	Shortening	FRingredient 136	Matiere grasse	Calorie 136	540	gr_ingredient 136	Matiere grasse	Categorie 136	Condiments
+Ingredient 137	Sichuan Pepper	FRingredient 137	Poivre du Sichuan	Calorie 137	0	gr_ingredient 137	Poivre	Categorie 137	Condiments
+Ingredient 138	Smoked Paprika	FRingredient 138	Paprika fume	Calorie 138	0	gr_ingredient 138	Paprika fume	Categorie 138	Condiments
+Ingredient 139	Smoky Paprika	FRingredient 139	Paprika fume	Calorie 139	0	gr_ingredient 139	Paprika fume	Categorie 139	Condiments
+Ingredient 140	Soy Sauce	FRingredient 140	Sauce soja	Calorie 140	53	gr_ingredient 140	Sauce soja	Categorie 140	Condiments
+Ingredient 141	Spring Onions	FRingredient 141	Oignons de printemps	Calorie 141	39	gr_ingredient 141	Oignon	Categorie 141	Condiments
+Ingredient 142	Sriracha	FRingredient 142	Sriracha	Calorie 142	20	gr_ingredient 142	Sriracha	Categorie 142	Condiments
+Ingredient 143	Star Anise	FRingredient 143	Anis etoile	Calorie 143	0	gr_ingredient 143	Anis etoile	Categorie 143	Condiments
+Ingredient 144	Suet	FRingredient 144	Graisse de rognon	Calorie 144	854	gr_ingredient 144	Graisse de rognon	Categorie 144	Condiments
+Ingredient 145	Sunflower Oil	FRingredient 145	Huile de tournesol	Calorie 145	884	gr_ingredient 145	Huile	Categorie 145	Condiments
+Ingredient 146	Tabasco Sauce	FRingredient 146	Sauce Tabasco	Calorie 146	0	gr_ingredient 146	Sauce Tabasco	Categorie 146	Condiments
+Ingredient 147	Tahini	FRingredient 147	Beurre de sesame	Calorie 147	595	gr_ingredient 147	Beurre de sesame	Categorie 147	Condiments
+Ingredient 148	Tamarind Ball	FRingredient 148	Boule de tamarin	Calorie 148	239	gr_ingredient 148	Tamarin	Categorie 148	Condiments
+Ingredient 149	Tamarind Paste	FRingredient 149	Pate de tamarin	Calorie 149	239	gr_ingredient 149	Tamarin	Categorie 149	Condiments
+Ingredient 150	Tarragon Leaves	FRingredient 150	feuilles d'estragon	Calorie 150	0	gr_ingredient 150	feuilles d'estragon	Categorie 150	Condiments
+Ingredient 151	Thai Fish Sauce	FRingredient 151	Sauce Thai poisson	Calorie 151	35	gr_ingredient 151	Sauce Thai poisson	Categorie 151	Condiments
+Ingredient 152	Thai Green Curry Paste	FRingredient 152	Pate de curry vert thai	Calorie 152	125	gr_ingredient 152	Curry	Categorie 152	Condiments
+Ingredient 153	Thai Red Curry Paste	FRingredient 153	Pate de curry rouge thai	Calorie 153	144	gr_ingredient 153	Curry	Categorie 153	Condiments
+Ingredient 154	Thyme	FRingredient 154	Thym	Calorie 154	0	gr_ingredient 154	Thym	Categorie 154	Condiments
+Ingredient 155	Tomato Ketchup	FRingredient 155	Ketchup	Calorie 155	112	gr_ingredient 155	Ketchup	Categorie 155	Condiments
+Ingredient 156	Tomato Sauce	FRingredient 156	Sauce tomate	Calorie 156	29	gr_ingredient 156	Sauce tomate	Categorie 156	Condiments
+Ingredient 157	Truffle Oil	FRingredient 157	huile de truffe	Calorie 157	800	gr_ingredient 157	huile de truffe	Categorie 157	Condiments
+Ingredient 158	Turmeric	FRingredient 158	Curcuma	Calorie 158	0	gr_ingredient 158	Curcuma	Categorie 158	Condiments
+Ingredient 159	Turmeric Powder	FRingredient 159	Poudre de curcuma	Calorie 159	0	gr_ingredient 159	Curcuma	Categorie 159	Condiments
+Ingredient 160	Vegetable Oil	FRingredient 160	Huile vegetale	Calorie 160	884	gr_ingredient 160	Huile	Categorie 160	Condiments
+Ingredient 161	Vegetable Stock	FRingredient 161	Bouillon de legumes	Calorie 161	5	gr_ingredient 161	Bouillon	Categorie 161	Condiments
+Ingredient 162	Vegetable Stock Cube	FRingredient 162	Cube de bouillon de legumes	Calorie 162	5	gr_ingredient 162	Bouillon	Categorie 162	Condiments
+Ingredient 163	Vinaigrette Dressing	FRingredient 163	Vinaigrette	Calorie 163	449	gr_ingredient 163	Vinaigrette	Categorie 163	Condiments
+Ingredient 164	Vine Leaves	FRingredient 164	Feuilles de vigne	Calorie 164	93	gr_ingredient 164	Feuilles de vigne	Categorie 164	Condiments
+Ingredient 165	Vinegar	FRingredient 165	Le vinaigre	Calorie 165	18	gr_ingredient 165	Vinaigre	Categorie 165	Condiments
+Ingredient 166	White Vinegar	FRingredient 166	Vinaigre blanc	Calorie 166	23	gr_ingredient 166	Vinaigre	Categorie 166	Condiments
+Ingredient 167	White Wine Vinegar	FRingredient 167	Vinaigre de vin blanc	Calorie 167	15	gr_ingredient 167	Vinaigre	Categorie 167	Condiments
+Ingredient 168	Worcestershire Sauce	FRingredient 168	Sauce Worcestershire	Calorie 168	78	gr_ingredient 168	Sauce Worcestershire	Categorie 168	Condiments
+Ingredient 169	Yeast	FRingredient 169	Levure	Calorie 169	105	gr_ingredient 169	Levure	Categorie 169	Condiments
+Ingredient 170	Yellow Onion	FRingredient 170	Oignon jaune	Calorie 170	132	gr_ingredient 170	Oignon	Categorie 170	Condiments
+Ingredient 171	Almond Extract	FRingredient 171	Extrait d'amande	Calorie 171	0	gr_ingredient 171	Extrait d'amande	Categorie 171	Confiseries
+Ingredient 172	Apricot Jam	FRingredient 172	Confiture d'abricot	Calorie 172	300	gr_ingredient 172	Confiture d'abricot	Categorie 172	Confiseries
+Ingredient 173	Baking Powder	FRingredient 173	Levure chimique	Calorie 173	5	gr_ingredient 173	Levure chimique	Categorie 173	Confiseries
+Ingredient 174	Black Treacle	FRingredient 174	Melasse noire	Calorie 174	290	gr_ingredient 174	Melasse noire	Categorie 174	Confiseries
+Ingredient 175	Brown Sugar	FRingredient 175	Cassonade	Calorie 175	380	gr_ingredient 175	Cassonade	Categorie 175	Confiseries
+Ingredient 176	Cacao	FRingredient 176	Cacao	Calorie 176	212	gr_ingredient 176	Cacao	Categorie 176	Confiseries
+Ingredient 177	Caramel	FRingredient 177	Caramel	Calorie 177	437	gr_ingredient 177	Caramel	Categorie 177	Confiseries
+Ingredient 178	Caramel Sauce	FRingredient 178	sauce caramel	Calorie 178	437	gr_ingredient 178	Caramel	Categorie 178	Confiseries
+Ingredient 179	Caster Sugar	FRingredient 179	sucre en poudre	Calorie 179	383	gr_ingredient 179	Sucre	Categorie 179	Confiseries
+Ingredient 180	Chocolate Chips	FRingredient 180	Pepites de chocolat	Calorie 180	520	gr_ingredient 180	Chocolat	Categorie 180	Confiseries
+Ingredient 181	Christmas Pudding	FRingredient 181	Pudding de Noel	Calorie 181	304	gr_ingredient 181	Pudding de Noel	Categorie 181	Confiseries
+Ingredient 182	Coco Sugar	FRingredient 182	sucre Coco	Calorie 182	375	gr_ingredient 182	Sucre	Categorie 182	Confiseries
+Ingredient 183	Cocoa	FRingredient 183	Cacao	Calorie 183	228	gr_ingredient 183	Cacao	Categorie 183	Confiseries
+Ingredient 184	Coconut Cream	FRingredient 184	Creme de noix de coco	Calorie 184	330	gr_ingredient 184	Creme de noix de coco	Categorie 184	Confiseries
+Ingredient 185	Custard	FRingredient 185	Creme anglaise 	Calorie 185	110	gr_ingredient 185	Creme anglaise 	Categorie 185	Confiseries
+Ingredient 186	Custard Powder	FRingredient 186	Creme anglaise en poudre	Calorie 186	350	gr_ingredient 186	Creme anglaise 	Categorie 186	Confiseries
+Ingredient 187	Dark Brown Soft Sugar	FRingredient 187	cassonade	Calorie 187	380	gr_ingredient 187	Cassonade	Categorie 187	Confiseries
+Ingredient 188	Dark Brown Sugar	FRingredient 188	cassonade	Calorie 188	380	gr_ingredient 188	Cassonade	Categorie 188	Confiseries
+Ingredient 189	Dark Chocolate	FRingredient 189	Chocolat noir	Calorie 189	550	gr_ingredient 189	Chocolat noir	Categorie 189	Confiseries
+Ingredient 190	Dark Chocolate Chips	FRingredient 190	Pepites de chocolat noir	Calorie 190	520	gr_ingredient 190	Chocolat noir	Categorie 190	Confiseries
+Ingredient 191	Dark Soft Brown Sugar	FRingredient 191	cassonade	Calorie 191	380	gr_ingredient 191	Cassonade	Categorie 191	Confiseries
+Ingredient 192	Demerara Sugar	FRingredient 192	cassonade	Calorie 192	380	gr_ingredient 192	Cassonade	Categorie 192	Confiseries
+Ingredient 193	Digestive Biscuits	FRingredient 193	Biscuits digestifs	Calorie 193	483	gr_ingredient 193	Biscuits digestifs	Categorie 193	Confiseries
+Ingredient 194	English Muffins	FRingredient 194	Muffins anglais	Calorie 194	235	gr_ingredient 194	Muffins anglais	Categorie 194	Confiseries
+Ingredient 195	Flaked Almonds	FRingredient 195	Amandes effilees	Calorie 195	639	gr_ingredient 195	Amande	Categorie 195	Confiseries
+Ingredient 196	Gelatine Leafs	FRingredient 196	feuilles de gelatine	Calorie 196	0	gr_ingredient 196	feuilles de gelatine	Categorie 196	Confiseries
+Ingredient 197	Ghee	FRingredient 197	ghee	Calorie 197	759	gr_ingredient 197	ghee	Categorie 197	Confiseries
+Ingredient 198	Golden Syrup	FRingredient 198	Sirop de sucre roux	Calorie 198	387	gr_ingredient 198	Sirop de sucre	Categorie 198	Confiseries
+Ingredient 199	Granulated Sugar	FRingredient 199	Sucre en poudre	Calorie 199	389	gr_ingredient 199	Sucre	Categorie 199	Confiseries
+Ingredient 200	Ground Almonds	FRingredient 200	Amandes moulues	Calorie 200	639	gr_ingredient 200	Amande	Categorie 200	Confiseries
+Ingredient 201	Honey	FRingredient 201	miel	Calorie 201	304	gr_ingredient 201	miel	Categorie 201	Confiseries
+Ingredient 202	Ice Cream	FRingredient 202	Creme glacee	Calorie 202	207	gr_ingredient 202	Creme glacee	Categorie 202	Confiseries
+Ingredient 203	Icing Sugar	FRingredient 203	Sucre glace	Calorie 203	389	gr_ingredient 203	Sucre glace	Categorie 203	Confiseries
+Ingredient 204	Jam	FRingredient 204	Confiture	Calorie 204	278	gr_ingredient 204	Confiture	Categorie 204	Confiseries
+Ingredient 205	Light Brown Soft Sugar	FRingredient 205	Cassonade	Calorie 205	380	gr_ingredient 205	Cassonade	Categorie 205	Confiseries
+Ingredient 206	Maple Syrup	FRingredient 206	Sirop d'erable	Calorie 206	260	gr_ingredient 206	Sirop d'erable	Categorie 206	Confiseries
+Ingredient 207	Mars Bar	FRingredient 207	Barre de mars	Calorie 207	448	gr_ingredient 207	Barre de mars	Categorie 207	Confiseries
+Ingredient 208	Marzipan	FRingredient 208	Massepain	Calorie 208	450	gr_ingredient 208	Massepain	Categorie 208	Confiseries
+Ingredient 209	Meringue Nests	FRingredient 209	Meringue	Calorie 209	389	gr_ingredient 209	Meringue	Categorie 209	Confiseries
+Ingredient 210	Milk Chocolate	FRingredient 210	Chocolat au lait	Calorie 210	535	gr_ingredient 210	Chocolat au lait	Categorie 210	Confiseries
+Ingredient 211	Miniature Marshmallows	FRingredient 211	guimauves miniatures	Calorie 211	318	gr_ingredient 211	guimauves miniatures	Categorie 211	Confiseries
+Ingredient 212	Muffins	FRingredient 212	Muffins	Calorie 212	377	gr_ingredient 212	Muffins	Categorie 212	Confiseries
+Ingredient 213	Muscovado Sugar	FRingredient 213	Sucre muscovado	Calorie 213	393	gr_ingredient 213	Sucre muscovado	Categorie 213	Confiseries
+Ingredient 214	Orange Blossom Water	FRingredient 214	L'eau de fleur d'oranger	Calorie 214	0	gr_ingredient 214	L'eau de fleur d'oranger	Categorie 214	Confiseries
+Ingredient 215	Pastry	FRingredient 215	Patisserie	Calorie 215	551	gr_ingredient 215	Patisserie	Categorie 215	Confiseries
+Ingredient 216	Peanut Cookies	FRingredient 216	cookies aux arachides	Calorie 216	487	gr_ingredient 216	cookies aux arachides	Categorie 216	Confiseries
+Ingredient 217	Plain Chocolate	FRingredient 217	chocolat ordinaire	Calorie 217	546	gr_ingredient 217	Chocolat	Categorie 217	Confiseries
+Ingredient 218	Powdered Sugar	FRingredient 218	Sucre en poudre	Calorie 218	387	gr_ingredient 218	Sucre	Categorie 218	Confiseries
+Ingredient 219	Sugar	FRingredient 219	Du sucre	Calorie 219	387	gr_ingredient 219	Du sucre	Categorie 219	Confiseries
+Ingredient 220	Toffee Popcorn	FRingredient 220	Popcorn au caramel	Calorie 220	381	gr_ingredient 220	Popcorn au caramel	Categorie 220	Confiseries
+Ingredient 221	Treacle	FRingredient 221	Melasse	Calorie 221	290	gr_ingredient 221	Melasse	Categorie 221	Confiseries
+Ingredient 222	Vanilla	FRingredient 222	Vanille	Calorie 222	288	gr_ingredient 222	Vanille	Categorie 222	Confiseries
+Ingredient 223	Vanilla Extract	FRingredient 223	Extrait de vanille	Calorie 223	288	gr_ingredient 223	Extrait de vanille	Categorie 223	Confiseries
+Ingredient 224	White Chocolate	FRingredient 224	Chocolat blanc	Calorie 224	539	gr_ingredient 224	Chocolat blanc	Categorie 224	Confiseries
+Ingredient 225	White Chocolate Chips	FRingredient 225	Pepites de chocolat blanc	Calorie 225	539	gr_ingredient 225	Chocolat blanc	Categorie 225	Confiseries
+Ingredient 226	Blue Food Colouring	FRingredient 226	colorant alimentaire bleu	Calorie 226	0	gr_ingredient 226	colorant alimentaire bleu	Categorie 226	Divers
+Ingredient 227	Breadcrumbs	FRingredient 227	Chapelure	Calorie 227	360	gr_ingredient 227	Chapelure	Categorie 227	Divers
+Ingredient 228	Pink Food Colouring	FRingredient 228	Rose colorant alimentaire	Calorie 228	0	gr_ingredient 228	Rose colorant alimentaire	Categorie 228	Divers
+Ingredient 229	Pretzels	FRingredient 229	bretzels	Calorie 229	390	gr_ingredient 229	bretzels	Categorie 229	Divers
+Ingredient 230	Red Food Colouring	FRingredient 230	Rouge colorant alimentaire	Calorie 230	0	gr_ingredient 230	Rouge colorant alimentaire	Categorie 230	Divers
+Ingredient 231	Tofu	FRingredient 231	Tofu	Calorie 231	76	gr_ingredient 231	Tofu	Categorie 231	Divers
+Ingredient 232	Vegan Butter	FRingredient 232	Beurre vegetalien	Calorie 232	82	gr_ingredient 232	Beurre vegetalien	Categorie 232	Divers
+Ingredient 233	Yellow Food Colouring	FRingredient 233	colorant alimentaire jaune	Calorie 233	0	gr_ingredient 233	colorant alimentaire jaune	Categorie 233	Divers
+Ingredient 234	Hard Taco Shells	FRingredient 234	Taco Shells dur	Calorie 234	150	gr_ingredient 234	Tacos	Categorie 234	Feculents
+Ingredient 235	Ackee	FRingredient 235	ris de veau	Calorie 235	140	gr_ingredient 235	ris de veau	Categorie 235	Feculents
+Ingredient 236	Baguette	FRingredient 236	Baguette	Calorie 236	269	gr_ingredient 236	Pain	Categorie 236	Feculents
+Ingredient 237	Basmati Rice	FRingredient 237	Riz basmati	Calorie 237	356	gr_ingredient 237	Riz 	Categorie 237	Feculents
+Ingredient 238	Bowtie Pasta	FRingredient 238	pates papillon	Calorie 238	353	gr_ingredient 238	Pates	Categorie 238	Feculents
+Ingredient 239	Bread	FRingredient 239	Pain	Calorie 239	265	gr_ingredient 239	Pain	Categorie 239	Feculents
+Ingredient 240	Bread Rolls	FRingredient 240	Des petits pains	Calorie 240	260	gr_ingredient 240	Pain	Categorie 240	Feculents
+Ingredient 241	Broad Beans	FRingredient 241	Feves	Calorie 241	78	gr_ingredient 241	Feves	Categorie 241	Feculents
+Ingredient 242	Brown Rice	FRingredient 242	Riz brun	Calorie 242	180	gr_ingredient 242	Riz 	Categorie 242	Feculents
+Ingredient 243	Bulgur Wheat	FRingredient 243	Boulgour	Calorie 243	98	gr_ingredient 243	Boulgour	Categorie 243	Feculents
+Ingredient 244	Bun	FRingredient 244	Bun	Calorie 244	244	gr_ingredient 244	Bun	Categorie 244	Feculents
+Ingredient 245	Buns	FRingredient 245	Buns	Calorie 245	244	gr_ingredient 245	Bun	Categorie 245	Feculents
+Ingredient 246	Capers	FRingredient 246	Capres	Calorie 246	33	gr_ingredient 246	Capres	Categorie 246	Feculents
+Ingredient 247	Charlotte Potatoes	FRingredient 247	Charlotte pommes de terre	Calorie 247	67	gr_ingredient 247	Pomme de Terre	Categorie 247	Feculents
+Ingredient 248	Chickpeas	FRingredient 248	Pois chiches	Calorie 248	364	gr_ingredient 248	Pois chiches	Categorie 248	Feculents
+Ingredient 249	Ciabatta	FRingredient 249	pain ciabatta	Calorie 249	190	gr_ingredient 249	Pain	Categorie 249	Feculents
+Ingredient 250	Corn Flour	FRingredient 250	Farine de mais	Calorie 250	370	gr_ingredient 250	Farine de mais	Categorie 250	Feculents
+Ingredient 251	Corn Tortillas	FRingredient 251	Tortillas de mais	Calorie 251	218	gr_ingredient 251	Tortillas de mais	Categorie 251	Feculents
+Ingredient 252	Cornstarch	FRingredient 252	Fecule de mais	Calorie 252	370	gr_ingredient 252	Fecule de mais	Categorie 252	Feculents
+Ingredient 253	Couscous	FRingredient 253	Couscous	Calorie 253	112	gr_ingredient 253	Couscous	Categorie 253	Feculents
+Ingredient 254	Crusty Bread	FRingredient 254	Pain croustillant	Calorie 254	440	gr_ingredient 254	Pain	Categorie 254	Feculents
+Ingredient 255	Farfalle	FRingredient 255	farfalle	Calorie 255	365	gr_ingredient 255	Pates	Categorie 255	Feculents
+Ingredient 256	Fettuccine	FRingredient 256	Fettuccine	Calorie 256	99	gr_ingredient 256	Pates	Categorie 256	Feculents
+Ingredient 257	Fideo	FRingredient 257	nouilles	Calorie 257	138	gr_ingredient 257	nouilles	Categorie 257	Feculents
+Ingredient 258	Filo Pastry	FRingredient 258	Pate filo	Calorie 258	299	gr_ingredient 258	Pate filo	Categorie 258	Feculents
+Ingredient 259	Flour	FRingredient 259	Farine	Calorie 259	364	gr_ingredient 259	Farine	Categorie 259	Feculents
+Ingredient 260	Flour Tortilla	FRingredient 260	Tortilla de farine	Calorie 260	237	gr_ingredient 260	Tortilla de farine	Categorie 260	Feculents
+Ingredient 261	Floury Potatoes	FRingredient 261	Les pommes de terre farineuses	Calorie 261	82	gr_ingredient 261	Pomme de terre	Categorie 261	Feculents
+Ingredient 262	Fries	FRingredient 262	frites	Calorie 262	312	gr_ingredient 262	frites	Categorie 262	Feculents
+Ingredient 263	Jasmine Rice	FRingredient 263	Riz jasmin	Calorie 263	351	gr_ingredient 263	Riz	Categorie 263	Feculents
+Ingredient 264	Khus Khus	FRingredient 264	Khus Khus	Calorie 264	326	gr_ingredient 264	Khus Khus	Categorie 264	Feculents
+Ingredient 265	Lasagne Sheets	FRingredient 265	Feuilles lasagnes	Calorie 265	282	gr_ingredient 265	Feuilles lasagnes	Categorie 265	Feculents
+Ingredient 266	Linguine Pasta	FRingredient 266	Pates linguine	Calorie 266	131	gr_ingredient 266	Pates	Categorie 266	Feculents
+Ingredient 267	Macaroni	FRingredient 267	Macaroni	Calorie 267	371	gr_ingredient 267	Pate	Categorie 267	Feculents
+Ingredient 268	Mixed Grain	FRingredient 268	Melange de graine	Calorie 268	336	gr_ingredient 268	Melange de graine	Categorie 268	Feculents
+Ingredient 269	Mixed Peel	FRingredient 269	Melange d'ecorces	Calorie 269	333	gr_ingredient 269	Melange d'ecorces	Categorie 269	Feculents
+Ingredient 270	Naan Bread	FRingredient 270	Pain naan	Calorie 270	311	gr_ingredient 270	Pain naan	Categorie 270	Feculents
+Ingredient 271	Noodles	FRingredient 271	Nouilles	Calorie 271	138	gr_ingredient 271	Nouilles	Categorie 271	Feculents
+Ingredient 272	Oatmeal	FRingredient 272	Flocons d'avoine	Calorie 272	66	gr_ingredient 272	Avoine	Categorie 272	Feculents
+Ingredient 273	Oats	FRingredient 273	Avoine	Calorie 273	66	gr_ingredient 273	Avoine	Categorie 273	Feculents
+Ingredient 274	Paccheri Pasta	FRingredient 274	Pates paccheri	Calorie 274	352	gr_ingredient 274	Pates	Categorie 274	Feculents
+Ingredient 275	Paella Rice	FRingredient 275	Riz a paella	Calorie 275	169	gr_ingredient 275	Riz	Categorie 275	Feculents
+Ingredient 276	Pappardelle Pasta	FRingredient 276	Pates pappardelle	Calorie 276	131	gr_ingredient 276	Pates	Categorie 276	Feculents
+Ingredient 277	Penne Rigate	FRingredient 277	Penne	Calorie 277	118	gr_ingredient 277	Pates	Categorie 277	Feculents
+Ingredient 278	Pita Bread	FRingredient 278	Pain pita	Calorie 278	275	gr_ingredient 278	Pain pita	Categorie 278	Feculents
+Ingredient 279	Plain Flour	FRingredient 279	Farine	Calorie 279	364	gr_ingredient 279	Farine	Categorie 279	Feculents
+Ingredient 280	Potato Starch	FRingredient 280	Puree de pomme de terre	Calorie 280	88	gr_ingredient 280	Pomme de terre	Categorie 280	Feculents
+Ingredient 281	Potatoe Buns	FRingredient 281	Galette de pomme de terre	Calorie 281	190	gr_ingredient 281	Pomme de terre	Categorie 281	Feculents
+Ingredient 282	Potatoes	FRingredient 282	Pommes de terre	Calorie 282	80	gr_ingredient 282	Pomme de terre	Categorie 282	Feculents
+Ingredient 283	Puff Pastry	FRingredient 283	Pate feuillete	Calorie 283	558	gr_ingredient 283	Pate feuillete	Categorie 283	Feculents
+Ingredient 284	Quinoa	FRingredient 284	quinoa	Calorie 284	222	gr_ingredient 284	quinoa	Categorie 284	Feculents
+Ingredient 285	Rice	FRingredient 285	Riz	Calorie 285	130	gr_ingredient 285	Riz	Categorie 285	Feculents
+Ingredient 286	Rice Krispies	FRingredient 286	Riz souffle	Calorie 286	402	gr_ingredient 286	Riz souffle	Categorie 286	Feculents
+Ingredient 287	Rice Noodles	FRingredient 287	Nouilles de riz	Calorie 287	109	gr_ingredient 287	Nouilles de riz	Categorie 287	Feculents
+Ingredient 288	Rice Stick Noodles	FRingredient 288	Baton de nouilles de riz	Calorie 288	109	gr_ingredient 288	Nouilles de riz	Categorie 288	Feculents
+Ingredient 289	Rice Vermicelli	FRingredient 289	vermicelles de riz	Calorie 289	109	gr_ingredient 289	Nouilles de riz	Categorie 289	Feculents
+Ingredient 290	Rigatoni	FRingredient 290	rigatoni	Calorie 290	200	gr_ingredient 290	Pates	Categorie 290	Feculents
+Ingredient 291	Rolled Oats	FRingredient 291	Flocons d'avoine	Calorie 291	379	gr_ingredient 291	Avoine	Categorie 291	Feculents
+Ingredient 292	Self-raisinf Flour	FRingredient 292	Farine 	Calorie 292	364	gr_ingredient 292	Farine 	Categorie 292	Feculents
+Ingredient 293	Semi-skimmed Flour	FRingredient 293	Farine semi-complete	Calorie 293	365	gr_ingredient 293	Farine	Categorie 293	Feculents
+Ingredient 294	Sesame Seed Burger Buns	FRingredient 294	Pain burger aux graines de sesame	Calorie 294	293	gr_ingredient 294	Bun	Categorie 294	Feculents
+Ingredient 295	Shortcrust Pastry	FRingredient 295	Pate brisee	Calorie 295	505	gr_ingredient 295	Pate brisee	Categorie 295	Feculents
+Ingredient 296	Small Potatoes	FRingredient 296	Petites pommes de terre	Calorie 296	80	gr_ingredient 296	Pomme de terre	Categorie 296	Feculents
+Ingredient 297	Spaghetti	FRingredient 297	Spaghetti	Calorie 297	158	gr_ingredient 297	Pates	Categorie 297	Feculents
+Ingredient 298	Starch	FRingredient 298	Amidon	Calorie 298	364	gr_ingredient 298	Amidon	Categorie 298	Feculents
+Ingredient 299	Sushi Rice	FRingredient 299	Riz a sushi	Calorie 299	143	gr_ingredient 299	Riz a sushi	Categorie 299	Feculents
+Ingredient 300	Sweet Potatoes	FRingredient 300	Patates douces	Calorie 300	86	gr_ingredient 300	Patates douces	Categorie 300	Feculents
+Ingredient 301	Tagliatelle	FRingredient 301	nouilles	Calorie 301	138	gr_ingredient 301	Nouilles	Categorie 301	Feculents
+Ingredient 302	Toor Dal	FRingredient 302	Dahl	Calorie 302	343	gr_ingredient 302	Dahl	Categorie 302	Feculents
+Ingredient 303	Tortillas	FRingredient 303	Tortillas	Calorie 303	218	gr_ingredient 303	Tortillas	Categorie 303	Feculents
+Ingredient 304	Udon Noodles	FRingredient 304	Nouilles udon	Calorie 304	131	gr_ingredient 304	Nouilles	Categorie 304	Feculents
+Ingredient 305	Vermicelli Pasta	FRingredient 305	Pate vermicelle	Calorie 305	331	gr_ingredient 305	Pates	Categorie 305	Feculents
+Ingredient 306	White Flour	FRingredient 306	Farine blanche	Calorie 306	364	gr_ingredient 306	Farine	Categorie 306	Feculents
+Ingredient 307	Whole Wheat	FRingredient 307	Ble complet	Calorie 307	62	gr_ingredient 307	Ble complet	Categorie 307	Feculents
+Ingredient 308	Wholegrain Bread	FRingredient 308	Pain complet	Calorie 308	313	gr_ingredient 308	Pain	Categorie 308	Feculents
+Ingredient 309	Yukon Gold Potatoes	FRingredient 309	Pommes de terre Yukon Gold	Calorie 309	68	gr_ingredient 309	Pomme de terre	Categorie 309	Feculents
+Ingredient 310	Almonds	FRingredient 310	Amandes	Calorie 310	580	gr_ingredient 310	Amandes	Categorie 310	Fruits
+Ingredient 311	Apples	FRingredient 311	Pommes	Calorie 311	52	gr_ingredient 311	Pomme	Categorie 311	Fruits
+Ingredient 312	Apricot	FRingredient 312	Abricot	Calorie 312	49	gr_ingredient 312	Abricot	Categorie 312	Fruits
+Ingredient 313	Banana	FRingredient 313	banane	Calorie 313	89	gr_ingredient 313	banane	Categorie 313	Fruits
+Ingredient 314	Blackberries	FRingredient 314	Mures	Calorie 314	43	gr_ingredient 314	Mures	Categorie 314	Fruits
+Ingredient 315	Blueberries	FRingredient 315	Myrtilles	Calorie 315	57	gr_ingredient 315	Myrtilles	Categorie 315	Fruits
+Ingredient 316	Braeburn Apples	FRingredient 316	Les pommes Braeburn	Calorie 316	53	gr_ingredient 316	Pomme	Categorie 316	Fruits
+Ingredient 317	Bramley Apple	FRingredient 317	pommes bramley	Calorie 317	35	gr_ingredient 317	Pomme	Categorie 317	Fruits
+Ingredient 318	Cherry	FRingredient 318	cerise	Calorie 318	39	gr_ingredient 318	cerise	Categorie 318	Fruits
+Ingredient 319	Currants	FRingredient 319	groseilles	Calorie 319	56	gr_ingredient 319	groseilles	Categorie 319	Fruits
+Ingredient 320	Desiccated Coconut	FRingredient 320	Noix de coco seche	Calorie 320	410	gr_ingredient 320	Noix de coco	Categorie 320	Fruits
+Ingredient 321	Dried Apricots	FRingredient 321	Abricots secs	Calorie 321	241	gr_ingredient 321	Abricots secs	Categorie 321	Fruits
+Ingredient 322	Dried Fruit	FRingredient 322	Fruit sec	Calorie 322	359	gr_ingredient 322	Fruit sec	Categorie 322	Fruits
+Ingredient 323	Fruit Mix	FRingredient 323	fruit Mix	Calorie 323	52	gr_ingredient 323	fruit Mix	Categorie 323	Fruits
+Ingredient 324	Glace Cherry	FRingredient 324	Cerises confites	Calorie 324	339	gr_ingredient 324	Cerise	Categorie 324	Fruits
+Ingredient 325	Hazlenuts	FRingredient 325	noisette	Calorie 325	628	gr_ingredient 325	noisette	Categorie 325	Fruits
+Ingredient 326	Lemon	FRingredient 326	Citron	Calorie 326	29	gr_ingredient 326	Citron	Categorie 326	Fruits
+Ingredient 327	Lemon Juice	FRingredient 327	Jus de citron	Calorie 327	22	gr_ingredient 327	Citron	Categorie 327	Fruits
+Ingredient 328	Lemon Zest	FRingredient 328	Zeste de citron	Calorie 328	0	gr_ingredient 328	Citron	Categorie 328	Fruits
+Ingredient 329	Lemons	FRingredient 329	Citrons	Calorie 329	29	gr_ingredient 329	Citron	Categorie 329	Fruits
+Ingredient 330	Lime	FRingredient 330	Citron vert	Calorie 330	30	gr_ingredient 330	Citron	Categorie 330	Fruits
+Ingredient 331	Medjool Dates	FRingredient 331	Dates medjool	Calorie 331	277	gr_ingredient 331	Dattes	Categorie 331	Fruits
+Ingredient 332	Orange	FRingredient 332	Orange	Calorie 332	47	gr_ingredient 332	Orange	Categorie 332	Fruits
+Ingredient 333	Peaches	FRingredient 333	Peches	Calorie 333	54	gr_ingredient 333	Peches	Categorie 333	Fruits
+Ingredient 334	Peanuts	FRingredient 334	Cacahuetes	Calorie 334	567	gr_ingredient 334	Cacahuetes	Categorie 334	Fruits
+Ingredient 335	Pears	FRingredient 335	Poires	Calorie 335	57	gr_ingredient 335	Poire	Categorie 335	Fruits
+Ingredient 336	Pecan Nuts	FRingredient 336	Noix de pecan	Calorie 336	690	gr_ingredient 336	Noix de pecan	Categorie 336	Fruits
+Ingredient 337	Raisins	FRingredient 337	Raisins secs	Calorie 337	229	gr_ingredient 337	Raisins secs	Categorie 337	Fruits
+Ingredient 338	Raspberries	FRingredient 338	Framboises	Calorie 338	53	gr_ingredient 338	Framboises	Categorie 338	Fruits
+Ingredient 339	Raspberry Jam	FRingredient 339	Confiture de framboise	Calorie 339	246	gr_ingredient 339	Confiture de framboise	Categorie 339	Fruits
+Ingredient 340	Redcurrants	FRingredient 340	Groseilles rouges	Calorie 340	55	gr_ingredient 340	Groseilles rouges	Categorie 340	Fruits
+Ingredient 341	Strawberries	FRingredient 341	Des fraises	Calorie 341	33	gr_ingredient 341	Des fraises	Categorie 341	Fruits
+Ingredient 342	Sultanas	FRingredient 342	Raisins  	Calorie 342	40	gr_ingredient 342	Raisins  	Categorie 342	Fruits
+Ingredient 343	Walnuts	FRingredient 343	Noix	Calorie 343	654	gr_ingredient 343	Noix	Categorie 343	Fruits
+Ingredient 344	Water Chestnut	FRingredient 344	Chataigne d'eau	Calorie 344	124	gr_ingredient 344	Chataigne	Categorie 344	Fruits
+Ingredient 345	Asparagus	FRingredient 345	Asperges	Calorie 345	20	gr_ingredient 345	Asperges	Categorie 345	Legumes
+Ingredient 346	Aubergine	FRingredient 346	Aubergine	Calorie 346	30	gr_ingredient 346	Aubergine	Categorie 346	Legumes
+Ingredient 347	Avocado	FRingredient 347	Avocat	Calorie 347	160	gr_ingredient 347	Avocat	Categorie 347	Legumes
+Ingredient 348	Baby Aubergine	FRingredient 348	mini aubergine	Calorie 348	30	gr_ingredient 348	Aubergine	Categorie 348	Legumes
+Ingredient 349	Baby Plum Tomatoes	FRingredient 349	petites tomates italiennes	Calorie 349	20	gr_ingredient 349	Tomate	Categorie 349	Legumes
+Ingredient 350	Baked Beans	FRingredient 350	haricots cuits au four	Calorie 350	80	gr_ingredient 350	Haricot blanc	Categorie 350	Legumes
+Ingredient 351	Bean Sprouts	FRingredient 351	Germes de soja	Calorie 351	44	gr_ingredient 351	Germes de soja	Categorie 351	Legumes
+Ingredient 352	Beetroot	FRingredient 352	Betterave	Calorie 352	19	gr_ingredient 352	Betterave	Categorie 352	Legumes
+Ingredient 353	Black Beans	FRingredient 353	Haricots noirs	Calorie 353	234	gr_ingredient 353	Haricots noirs	Categorie 353	Legumes
+Ingredient 354	Black Olives	FRingredient 354	Olives noires	Calorie 354	167	gr_ingredient 354	Olives noires	Categorie 354	Legumes
+Ingredient 355	Borlotti Beans	FRingredient 355	Les haricots borlotti	Calorie 355	100	gr_ingredient 355	Haricot Blanc	Categorie 355	Legumes
+Ingredient 356	Broccoli	FRingredient 356	Brocoli	Calorie 356	34	gr_ingredient 356	Brocoli	Categorie 356	Legumes
+Ingredient 357	Brown Lentils	FRingredient 357	lentilles brunes	Calorie 357	116	gr_ingredient 357	Lentille	Categorie 357	Legumes
+Ingredient 358	Brussels Sprouts	FRingredient 358	Choux de Bruxelles	Calorie 358	36	gr_ingredient 358	Choux de Bruxelles	Categorie 358	Legumes
+Ingredient 359	Butter Beans	FRingredient 359	Haricots beurre	Calorie 359	85	gr_ingredient 359	Haricots beurre	Categorie 359	Legumes
+Ingredient 360	Butternut Squash	FRingredient 360	Courge butternut	Calorie 360	41	gr_ingredient 360	Courge butternut	Categorie 360	Legumes
+Ingredient 361	Cabbage	FRingredient 361	Chou	Calorie 361	31	gr_ingredient 361	Chou	Categorie 361	Legumes
+Ingredient 362	Canned Tomatoes	FRingredient 362	Tomates en conserve	Calorie 362	18	gr_ingredient 362	Tomate	Categorie 362	Legumes
+Ingredient 363	Cannellini Beans	FRingredient 363	Les haricots cannellini	Calorie 363	101	gr_ingredient 363	Haricot Blanc	Categorie 363	Legumes
+Ingredient 364	Carrots	FRingredient 364	Carottes	Calorie 364	41	gr_ingredient 364	Carotte	Categorie 364	Legumes
+Ingredient 365	Celeriac	FRingredient 365	Celeri-rave	Calorie 365	33	gr_ingredient 365	Celeri	Categorie 365	Legumes
+Ingredient 366	Celery	FRingredient 366	Celeri	Calorie 366	16	gr_ingredient 366	Celeri	Categorie 366	Legumes
+Ingredient 367	Cherry Tomatoes	FRingredient 367	Tomates cerises	Calorie 367	18	gr_ingredient 367	Tomate	Categorie 367	Legumes
+Ingredient 368	Chestnut Mushroom	FRingredient 368	Champignon	Calorie 368	22	gr_ingredient 368	Champignon	Categorie 368	Legumes
+Ingredient 369	Chestnuts	FRingredient 369	Chataigne	Calorie 369	183	gr_ingredient 369	Chataigne	Categorie 369	Legumes
+Ingredient 370	Chinese Broccoli	FRingredient 370	Brocoli chinois	Calorie 370	22	gr_ingredient 370	Brocoli	Categorie 370	Legumes
+Ingredient 371	Chopped Tomato	FRingredient 371	Tomate emincee	Calorie 371	15	gr_ingredient 371	Tomate	Categorie 371	Legumes
+Ingredient 372	Courgettes	FRingredient 372	Courgettes	Calorie 372	17	gr_ingredient 372	Courgettes	Categorie 372	Legumes
+Ingredient 373	Creamed Corn	FRingredient 373	mais en creme	Calorie 373	93	gr_ingredient 373	mais en creme	Categorie 373	Legumes
+Ingredient 374	Cucumber	FRingredient 374	Concombre	Calorie 374	13	gr_ingredient 374	Concombre	Categorie 374	Legumes
+Ingredient 375	Diced Tomatoes	FRingredient 375	Tomates en des	Calorie 375	18	gr_ingredient 375	Tomate	Categorie 375	Legumes
+Ingredient 376	Egg Plants	FRingredient 376	Aubergines	Calorie 376	25	gr_ingredient 376	Aubergines	Categorie 376	Legumes
+Ingredient 377	Fennel	FRingredient 377	Fenouil	Calorie 377	31	gr_ingredient 377	Fenouil	Categorie 377	Legumes
+Ingredient 378	Fennel Bulb	FRingredient 378	Tete de fenouil	Calorie 378	31	gr_ingredient 378	Fenouil	Categorie 378	Legumes
+Ingredient 379	Fermented Black Beans	FRingredient 379	Haricots fermentes	Calorie 379	120	gr_ingredient 379	Haricot noir	Categorie 379	Legumes
+Ingredient 380	French Lentils	FRingredient 380	lentilles francaise	Calorie 380	112	gr_ingredient 380	Lentille	Categorie 380	Legumes
+Ingredient 381	Frozen Peas	FRingredient 381	Petits pois surgeles	Calorie 381	77	gr_ingredient 381	Petits pois	Categorie 381	Legumes
+Ingredient 382	Grape Tomatoes	FRingredient 382	Des tomates cerises	Calorie 382	29	gr_ingredient 382	Tomate cerise	Categorie 382	Legumes
+Ingredient 383	Green Beans	FRingredient 383	Haricots verts	Calorie 383	31	gr_ingredient 383	Haricots verts	Categorie 383	Legumes
+Ingredient 384	Green Olives	FRingredient 384	Olives vertes	Calorie 384	145	gr_ingredient 384	Olives vertes	Categorie 384	Legumes
+Ingredient 385	Green Red Lentils	FRingredient 385	Lentilles vertes	Calorie 385	112	gr_ingredient 385	Lentille	Categorie 385	Legumes
+Ingredient 386	Haricot Beans	FRingredient 386	Haricots	Calorie 386	31	gr_ingredient 386	Haricots	Categorie 386	Legumes
+Ingredient 387	Iceberg Lettuce	FRingredient 387	Laitue iceberg	Calorie 387	14	gr_ingredient 387	Laitue iceberg	Categorie 387	Legumes
+Ingredient 388	Jerusalem Artichokes	FRingredient 388	Artichaut de Jerusalem	Calorie 388	30	gr_ingredient 388	Artichaut de Jerusalem	Categorie 388	Legumes
+Ingredient 389	Kale	FRingredient 389	Chou frise	Calorie 389	49	gr_ingredient 389	Chou frise	Categorie 389	Legumes
+Ingredient 390	Kidney Beans	FRingredient 390	Haricots	Calorie 390	31	gr_ingredient 390	Haricots	Categorie 390	Legumes
+Ingredient 391	Leek	FRingredient 391	Poireau	Calorie 391	61	gr_ingredient 391	Poireau	Categorie 391	Legumes
+Ingredient 392	Lentils	FRingredient 392	Lentilles	Calorie 392	116	gr_ingredient 392	Lentille	Categorie 392	Legumes
+Ingredient 393	Lettuce	FRingredient 393	Laitue	Calorie 393	16	gr_ingredient 393	Laitue	Categorie 393	Legumes
+Ingredient 394	Little Gem Lettuce	FRingredient 394	Laitue 	Calorie 394	15	gr_ingredient 394	Laitue 	Categorie 394	Legumes
+Ingredient 395	Mushrooms	FRingredient 395	Champignons	Calorie 395	22	gr_ingredient 395	Champignon	Categorie 395	Legumes
+Ingredient 396	Passata	FRingredient 396	Puree de tomates	Calorie 396	38	gr_ingredient 396	Tomate	Categorie 396	Legumes
+Ingredient 397	Peas	FRingredient 397	Pois	Calorie 397	81	gr_ingredient 397	Pois	Categorie 397	Legumes
+Ingredient 398	Persian Cucumber	FRingredient 398	concombre persan	Calorie 398	14	gr_ingredient 398	Comcombre	Categorie 398	Legumes
+Ingredient 399	Pinto Beans	FRingredient 399	Haricots pinto	Calorie 399	347	gr_ingredient 399	Haricots pinto	Categorie 399	Legumes
+Ingredient 400	Pitted Black Olives	FRingredient 400	Olives noires denoyautees	Calorie 400	162	gr_ingredient 400	Olives noires denoyautees	Categorie 400	Legumes
+Ingredient 401	Plum Tomatoes	FRingredient 401	Tomates italiennes	Calorie 401	16	gr_ingredient 401	Tomate	Categorie 401	Legumes
+Ingredient 402	Pumpkin	FRingredient 402	Citrouille	Calorie 402	26	gr_ingredient 402	Citrouille	Categorie 402	Legumes
+Ingredient 403	Red Pepper	FRingredient 403	Poivron rouge	Calorie 403	23	gr_ingredient 403	Poivron rouge	Categorie 403	Legumes
+Ingredient 404	Refried Beans	FRingredient 404	Haricots frits	Calorie 404	144	gr_ingredient 404	Haricots frits	Categorie 404	Legumes
+Ingredient 405	Rhubarb	FRingredient 405	Rhubarbe	Calorie 405	21	gr_ingredient 405	Rhubarbe	Categorie 405	Legumes
+Ingredient 406	Roasted Vegetables	FRingredient 406	Legumes grilles	Calorie 406	51	gr_ingredient 406	Legumes grilles	Categorie 406	Legumes
+Ingredient 407	Rocket	FRingredient 407	roquette	Calorie 407	25	gr_ingredient 407	roquette	Categorie 407	Legumes
+Ingredient 408	Sauerkraut	FRingredient 408	Choucroute	Calorie 408	19	gr_ingredient 408	Choucroute	Categorie 408	Legumes
+Ingredient 409	Scotch Bonnet	FRingredient 409	Mousseron	Calorie 409	28	gr_ingredient 409	Mousseron	Categorie 409	Legumes
+Ingredient 410	Shiitake Mushrooms	FRingredient 410	Champignons shiitake	Calorie 410	34	gr_ingredient 410	Champignons shiitake	Categorie 410	Legumes
+Ingredient 411	Spinach	FRingredient 411	Epinard	Calorie 411	23	gr_ingredient 411	Epinard	Categorie 411	Legumes
+Ingredient 412	Squash	FRingredient 412	Courge 	Calorie 412	26	gr_ingredient 412	Courge 	Categorie 412	Legumes
+Ingredient 413	Stir-fry Vegetables	FRingredient 413	Legumes grilles	Calorie 413	61	gr_ingredient 413	Legumes (melange)	Categorie 413	Legumes
+Ingredient 414	Sugar Snap Peas	FRingredient 414	Pois gourmands	Calorie 414	45	gr_ingredient 414	Pois gourmands	Categorie 414	Legumes
+Ingredient 415	Sun-Dried Tomatoes	FRingredient 415	Tomates seches	Calorie 415	213	gr_ingredient 415	Tomates seches	Categorie 415	Legumes
+Ingredient 416	Swede	FRingredient 416	Rutabaga	Calorie 416	38	gr_ingredient 416	Rutabaga	Categorie 416	Legumes
+Ingredient 417	Sweetcorn	FRingredient 417	Mais	Calorie 417	86	gr_ingredient 417	Mais	Categorie 417	Legumes
+Ingredient 418	Tinned Tomatos	FRingredient 418	Tomates en conserve	Calorie 418	32	gr_ingredient 418	Tomate	Categorie 418	Legumes
+Ingredient 419	Tomato	FRingredient 419	Tomate	Calorie 419	16	gr_ingredient 419	Tomate	Categorie 419	Legumes
+Ingredient 420	Tomato Puree	FRingredient 420	Puree de Tomates	Calorie 420	38	gr_ingredient 420	Tomate	Categorie 420	Legumes
+Ingredient 421	Tomatoes	FRingredient 421	Tomates	Calorie 421	16	gr_ingredient 421	Tomate	Categorie 421	Legumes
+Ingredient 422	Turnips	FRingredient 422	navets	Calorie 422	28	gr_ingredient 422	navets	Categorie 422	Legumes
+Ingredient 423	Vine Tomatoes	FRingredient 423	Tomates en grappe	Calorie 423	20	gr_ingredient 423	Tomate	Categorie 423	Legumes
+Ingredient 424	Wild Mushrooms	FRingredient 424	Champignons sauvages	Calorie 424	22	gr_ingredient 424	Champignons	Categorie 424	Legumes
+Ingredient 425	Wood Ear Mushrooms	FRingredient 425	Champignons des bois	Calorie 425	32	gr_ingredient 425	Champignons	Categorie 425	Legumes
+Ingredient 426	Yellow Pepper	FRingredient 426	Poivron jaune	Calorie 426	27	gr_ingredient 426	Poivron jaune	Categorie 426	Legumes
+Ingredient 427	Zucchini	FRingredient 427	Courgette	Calorie 427	17	gr_ingredient 427	Courgette	Categorie 427	Legumes
+Ingredient 428	Boiling Water	FRingredient 428	Eau bouillante	Calorie 428	0	gr_ingredient 428	Eau	Categorie 428	Liquides
+Ingredient 429	Brandy	FRingredient 429	Brandy	Calorie 429	205	gr_ingredient 429	Brandy	Categorie 429	Liquides
+Ingredient 430	Cider	FRingredient 430	Cidre	Calorie 430	32	gr_ingredient 430	Cidre	Categorie 430	Liquides
+Ingredient 431	Coconut Milk	FRingredient 431	Lait de coco	Calorie 431	230	gr_ingredient 431	Lait de coco	Categorie 431	Liquides
+Ingredient 432	Cold Water	FRingredient 432	Eau froide	Calorie 432	0	gr_ingredient 432	Eau	Categorie 432	Liquides
+Ingredient 433	Cooking Wine	FRingredient 433	Du vin de cuisine	Calorie 433	56	gr_ingredient 433	Vin	Categorie 433	Liquides
+Ingredient 434	Dark Rum	FRingredient 434	rhum brun	Calorie 434	242	gr_ingredient 434	Rhum	Categorie 434	Liquides
+Ingredient 435	Dry White Wine	FRingredient 435	Vin blanc sec	Calorie 435	56	gr_ingredient 435	Vin blanc sec	Categorie 435	Liquides
+Ingredient 436	Extra Virgin Olive Oil	FRingredient 436	Huile d'olive vierge extra	Calorie 436	899	gr_ingredient 436	Huile d'olive	Categorie 436	Liquides
+Ingredient 437	Grand Marnier	FRingredient 437	Grand Marnier	Calorie 437	250	gr_ingredient 437	Grand Marnier	Categorie 437	Liquides
+Ingredient 438	Light Rum	FRingredient 438	Rhum leger	Calorie 438	220	gr_ingredient 438	Rhum	Categorie 438	Liquides
+Ingredient 439	Red Wine	FRingredient 439	Vin rouge	Calorie 439	85	gr_ingredient 439	Vin rouge	Categorie 439	Liquides
+Ingredient 440	Red Wine Jelly	FRingredient 440	Vin rouge Jelly	Calorie 440	85	gr_ingredient 440	Vin rouge	Categorie 440	Liquides
+Ingredient 441	Rice Wine	FRingredient 441	Sake	Calorie 441	134	gr_ingredient 441	Sake	Categorie 441	Liquides
+Ingredient 442	Rose Water	FRingredient 442	Eau de rose	Calorie 442	0	gr_ingredient 442	Eau de rose	Categorie 442	Liquides
+Ingredient 443	Rum	FRingredient 443	Rhum 	Calorie 443	220	gr_ingredient 443	Rhum 	Categorie 443	Liquides
+Ingredient 444	Sake	FRingredient 444	Sake	Calorie 444	134	gr_ingredient 444	Sake	Categorie 444	Liquides
+Ingredient 445	Sherry	FRingredient 445	vin de xeres	Calorie 445	117	gr_ingredient 445	Vin	Categorie 445	Liquides
+Ingredient 446	Soya Milk	FRingredient 446	Lait de soja	Calorie 446	54	gr_ingredient 446	Lait de soja	Categorie 446	Liquides
+Ingredient 447	Stout	FRingredient 447	Biere	Calorie 447	43	gr_ingredient 447	Biere	Categorie 447	Liquides
+Ingredient 448	Warm Water	FRingredient 448	Eau chaude	Calorie 448	0	gr_ingredient 448	Eau	Categorie 448	Liquides
+Ingredient 449	Water	FRingredient 449	L'eau	Calorie 449	0	gr_ingredient 449	Eau	Categorie 449	Liquides
+Ingredient 450	White Wine	FRingredient 450	Vin blanc	Calorie 450	82	gr_ingredient 450	Vin blanc	Categorie 450	Liquides
+Ingredient 451	Almond Milk	FRingredient 451	Lait d'amande	Calorie 451	80	gr_ingredient 451	Lait d'amande	Categorie 451	Produits laitiers
+Ingredient 452	Brie	FRingredient 452	Brie	Calorie 452	320	gr_ingredient 452	Brie	Categorie 452	Produits laitiers
+Ingredient 453	Butter	FRingredient 453	beurre	Calorie 453	640	gr_ingredient 453	Beurre	Categorie 453	Produits laitiers
+Ingredient 454	Cheddar Cheese	FRingredient 454	Fromage cheddar	Calorie 454	404	gr_ingredient 454	Fromage	Categorie 454	Produits laitiers
+Ingredient 455	Cheese	FRingredient 455	Fromage	Calorie 455	404	gr_ingredient 455	Fromage	Categorie 455	Produits laitiers
+Ingredient 456	Cheese Curds	FRingredient 456	fromage en grains	Calorie 456	404	gr_ingredient 456	Fromage	Categorie 456	Produits laitiers
+Ingredient 457	Cheese Slices	FRingredient 457	Tranches de fromage	Calorie 457	404	gr_ingredient 457	Fromage	Categorie 457	Produits laitiers
+Ingredient 458	Chilled Butter	FRingredient 458	beurre frais	Calorie 458	745	gr_ingredient 458	Beurre	Categorie 458	Produits laitiers
+Ingredient 459	Clotted Cream	FRingredient 459	Creme coagule	Calorie 459	670	gr_ingredient 459	Creme	Categorie 459	Produits laitiers
+Ingredient 460	Colby Jack Cheese	FRingredient 460	fromage colby jack	Calorie 460	80	gr_ingredient 460	Fromage	Categorie 460	Produits laitiers
+Ingredient 461	Condensed Milk	FRingredient 461	Lait concentre	Calorie 461	321	gr_ingredient 461	Lait concentre	Categorie 461	Produits laitiers
+Ingredient 462	Cream	FRingredient 462	Creme	Calorie 462	196	gr_ingredient 462	Creme	Categorie 462	Produits laitiers
+Ingredient 463	Cream Cheese	FRingredient 463	Fromage Frais	Calorie 463	310	gr_ingredient 463	Fromage Frais	Categorie 463	Produits laitiers
+Ingredient 464	CrÃ¨me Fraiche	FRingredient 464	creme fraiche	Calorie 464	300	gr_ingredient 464	Creme	Categorie 464	Produits laitiers
+Ingredient 465	Cubed Feta Cheese	FRingredient 465	cube de feta	Calorie 465	264	gr_ingredient 465	Feta	Categorie 465	Produits laitiers
+Ingredient 466	Double Cream	FRingredient 466	Double creme	Calorie 466	354	gr_ingredient 466	Creme	Categorie 466	Produits laitiers
+Ingredient 467	Feta	FRingredient 467	feta	Calorie 467	261	gr_ingredient 467	Feta	Categorie 467	Produits laitiers
+Ingredient 468	Fromage Frais	FRingredient 468	Fromage Frais	Calorie 468	310	gr_ingredient 468	Fromage Frais	Categorie 468	Produits laitiers
+Ingredient 469	Full Fat Yogurt	FRingredient 469	yahourt allege	Calorie 469	42	gr_ingredient 469	yahourt allege	Categorie 469	Produits laitiers
+Ingredient 470	Goats Cheese	FRingredient 470	Fromage de chevre	Calorie 470	364	gr_ingredient 470	Fromage de chevre	Categorie 470	Produits laitiers
+Ingredient 471	Gouda Cheese	FRingredient 471	gouda	Calorie 471	356	gr_ingredient 471	gouda	Categorie 471	Produits laitiers
+Ingredient 472	Greek Yogurt	FRingredient 472	Yaourt grec	Calorie 472	183	gr_ingredient 472	Yaourt grec	Categorie 472	Produits laitiers
+Ingredient 473	Gruy\u00e8re	FRingredient 473	gruyere	Calorie 473	413	gr_ingredient 473	gruyere	Categorie 473	Produits laitiers
+Ingredient 474	Heavy Cream	FRingredient 474	Creme epaisse	Calorie 474	300	gr_ingredient 474	Creme	Categorie 474	Produits laitiers
+Ingredient 475	Mascarpone	FRingredient 475	Fromage mascarpone	Calorie 475	417	gr_ingredient 475	Fromage mascarpone	Categorie 475	Produits laitiers
+Ingredient 476	Milk	FRingredient 476	Lait	Calorie 476	42	gr_ingredient 476	Lait	Categorie 476	Produits laitiers
+Ingredient 477	Monterey Jack Cheese	FRingredient 477	Fromage Monterey Jack	Calorie 477	373	gr_ingredient 477	Fromage	Categorie 477	Produits laitiers
+Ingredient 478	Mozzarella	FRingredient 478	Mozzarella	Calorie 478	280	gr_ingredient 478	Mozzarella	Categorie 478	Produits laitiers
+Ingredient 479	Mozzarella Balls	FRingredient 479	Balles mozzarella	Calorie 479	280	gr_ingredient 479	Mozzarella	Categorie 479	Produits laitiers
+Ingredient 480	Paneer	FRingredient 480	paneer	Calorie 480	293	gr_ingredient 480	paneer	Categorie 480	Produits laitiers
+Ingredient 481	Parmesan	FRingredient 481	Parmesan	Calorie 481	431	gr_ingredient 481	Parmesan	Categorie 481	Produits laitiers
+Ingredient 482	Parmesan Cheese	FRingredient 482	Parmesan	Calorie 482	431	gr_ingredient 482	Parmesan	Categorie 482	Produits laitiers
+Ingredient 483	Parmigiano-reggiano	FRingredient 483	Parmesan	Calorie 483	431	gr_ingredient 483	Parmesan	Categorie 483	Produits laitiers
+Ingredient 484	Pecorino	FRingredient 484	pecorino	Calorie 484	387	gr_ingredient 484	pecorino	Categorie 484	Produits laitiers
+Ingredient 485	Ricotta	FRingredient 485	ricotta	Calorie 485	174	gr_ingredient 485	ricotta	Categorie 485	Produits laitiers
+Ingredient 486	Salted Butter	FRingredient 486	Beurre sale	Calorie 486	732	gr_ingredient 486	Beurre sale	Categorie 486	Produits laitiers
+Ingredient 487	Shredded Mexican Cheese	FRingredient 487	Fromage rape mexicain	Calorie 487	372	gr_ingredient 487	Fromage	Categorie 487	Produits laitiers
+Ingredient 488	Shredded Monterey Jack Cheese	FRingredient 488	Fromage Monterey Jack rape	Calorie 488	362	gr_ingredient 488	Fromage	Categorie 488	Produits laitiers
+Ingredient 489	Single Cream	FRingredient 489	Creme liquide	Calorie 489	300	gr_ingredient 489	Creme liquide	Categorie 489	Produits laitiers
+Ingredient 490	Sour Cream	FRingredient 490	Creme Fraiche	Calorie 490	193	gr_ingredient 490	Creme	Categorie 490	Produits laitiers
+Ingredient 491	Stilton Cheese	FRingredient 491	Stilton	Calorie 491	412	gr_ingredient 491	Stilton	Categorie 491	Produits laitiers
+Ingredient 492	Unsalted Butter	FRingredient 492	Beurre sans sel	Calorie 492	717	gr_ingredient 492	Beurre	Categorie 492	Produits laitiers
+Ingredient 493	Whole Milk	FRingredient 493	lait entier	Calorie 493	67	gr_ingredient 493	Lait	Categorie 493	Produits laitiers
+Ingredient 494	Yogurt	FRingredient 494	Yaourt	Calorie 494	59	gr_ingredient 494	Yaourt	Categorie 494	Produits laitiers
+Ingredient 495	Anchovy Fillet	FRingredient 495	filet d'anchois	Calorie 495	200	gr_ingredient 495	anchois	Categorie 495	Viandes
+Ingredient 496	Bacon	FRingredient 496	Lard	Calorie 496	445	gr_ingredient 496	Lard	Categorie 496	Viandes
+Ingredient 497	Beef	FRingredient 497	boeuf	Calorie 497	176	gr_ingredient 497	Boeuf	Categorie 497	Viandes
+Ingredient 498	Beef Brisket	FRingredient 498	Poitrine de boeuf	Calorie 498	155	gr_ingredient 498	Boeuf	Categorie 498	Viandes
+Ingredient 499	Beef Fillet	FRingredient 499	Filet de boeuf	Calorie 499	324	gr_ingredient 499	Boeuf	Categorie 499	Viandes
+Ingredient 500	Beef Gravy	FRingredient 500	boeuf sauce au jus	Calorie 500	53	gr_ingredient 500	Boeuf	Categorie 500	Viandes
+Ingredient 501	Beef Kidney	FRingredient 501	rognon de boeuf	Calorie 501	161	gr_ingredient 501	rognon de boeuf	Categorie 501	Viandes
+Ingredient 502	Beef Shin	FRingredient 502	gite de boeuf	Calorie 502	184	gr_ingredient 502	Boeuf	Categorie 502	Viandes
+Ingredient 503	Black Pudding	FRingredient 503	Boudin noir	Calorie 503	290	gr_ingredient 503	Boudin noir	Categorie 503	Viandes
+Ingredient 504	Chicken	FRingredient 504	Poulet	Calorie 504	88	gr_ingredient 504	Poulet	Categorie 504	Viandes
+Ingredient 505	Chicken Breast	FRingredient 505	Poitrine de poulet	Calorie 505	165	gr_ingredient 505	Poulet	Categorie 505	Viandes
+Ingredient 506	Chicken Breasts	FRingredient 506	Poitrines de poulet	Calorie 506	165	gr_ingredient 506	Poulet	Categorie 506	Viandes
+Ingredient 507	Chicken Legs	FRingredient 507	Cuisses de poulet	Calorie 507	190	gr_ingredient 507	Cuisses de poulet	Categorie 507	Viandes
+Ingredient 508	Chicken Thights	FRingredient 508	cuisse de poulet	Calorie 508	190	gr_ingredient 508	Cuisses de poulet	Categorie 508	Viandes
+Ingredient 509	Chorizo	FRingredient 509	chorizo	Calorie 509	455	gr_ingredient 509	chorizo	Categorie 509	Viandes
+Ingredient 510	Clams	FRingredient 510	Palourdes	Calorie 510	59	gr_ingredient 510	Palourdes	Categorie 510	Viandes
+Ingredient 511	Cod	FRingredient 511	Morue	Calorie 511	113	gr_ingredient 511	Morue	Categorie 511	Viandes
+Ingredient 512	Doner Meat	FRingredient 512	Viande a Kebab	Calorie 512	270	gr_ingredient 512	Viande a Kebab	Categorie 512	Viandes
+Ingredient 513	Duck	FRingredient 513	Canard	Calorie 513	337	gr_ingredient 513	Canard	Categorie 513	Viandes
+Ingredient 514	Duck Fat	FRingredient 514	Canard	Calorie 514	337	gr_ingredient 514	Canard	Categorie 514	Viandes
+Ingredient 515	Duck Legs	FRingredient 515	Cuisses de canard	Calorie 515	177	gr_ingredient 515	Cuisses de canard	Categorie 515	Viandes
+Ingredient 516	Egg	FRingredient 516	Å’uf	Calorie 516	155	gr_ingredient 516	Oeuf	Categorie 516	Viandes
+Ingredient 517	Egg White	FRingredient 517	Blanc d'oeuf	Calorie 517	52	gr_ingredient 517	Oeuf	Categorie 517	Viandes
+Ingredient 518	Egg Yolks	FRingredient 518	Jaunes d'Å“uf	Calorie 518	322	gr_ingredient 518	Oeuf	Categorie 518	Viandes
+Ingredient 519	Eggs	FRingredient 519	Des Å“ufs	Calorie 519	155	gr_ingredient 519	Oeuf	Categorie 519	Viandes
+Ingredient 520	Flax Eggs	FRingredient 520	oeufs de lin	Calorie 520	506	gr_ingredient 520	oeufs de lin	Categorie 520	Viandes
+Ingredient 521	Free-range Egg, Beaten	FRingredient 521	oeufs fermiers battus	Calorie 521	155	gr_ingredient 521	Oeuf	Categorie 521	Viandes
+Ingredient 522	Goat Meat	FRingredient 522	Viande de chevre	Calorie 522	143	gr_ingredient 522	Viande de chevre	Categorie 522	Viandes
+Ingredient 523	Ground Beef	FRingredient 523	boeuf hache	Calorie 523	332	gr_ingredient 523	Boeuf	Categorie 523	Viandes
+Ingredient 524	Ground Pork	FRingredient 524	porc hache	Calorie 524	297	gr_ingredient 524	Porc	Categorie 524	Viandes
+Ingredient 525	Haddock	FRingredient 525	Eglefin	Calorie 525	89	gr_ingredient 525	Eglefin	Categorie 525	Viandes
+Ingredient 526	Ham	FRingredient 526	jambon	Calorie 526	145	gr_ingredient 526	jambon	Categorie 526	Viandes
+Ingredient 527	Herring	FRingredient 527	hareng	Calorie 527	258	gr_ingredient 527	hareng	Categorie 527	Viandes
+Ingredient 528	Italian Fennel Sausages	FRingredient 528	Saucisses italiennes Fenouil	Calorie 528	232	gr_ingredient 528	Saucisses	Categorie 528	Viandes
+Ingredient 529	Jerk	FRingredient 529	Viande sechee	Calorie 529	271	gr_ingredient 529	Viande sechee	Categorie 529	Viandes
+Ingredient 530	Kielbasa	FRingredient 530	Kielbasa	Calorie 530	226	gr_ingredient 530	Kielbasa	Categorie 530	Viandes
+Ingredient 531	King Prawns	FRingredient 531	Gambas	Calorie 531	98	gr_ingredient 531	Gambas	Categorie 531	Viandes
+Ingredient 532	Lamb	FRingredient 532	agneau	Calorie 532	193	gr_ingredient 532	Agneau	Categorie 532	Viandes
+Ingredient 533	Lamb Kidney	FRingredient 533	Rognon d'agneau	Calorie 533	141	gr_ingredient 533	Rognon d'agneau	Categorie 533	Viandes
+Ingredient 534	Lamb Leg	FRingredient 534	Gigot d'agneau	Calorie 534	193	gr_ingredient 534	Agneau	Categorie 534	Viandes
+Ingredient 535	Lamb Loin Chops	FRingredient 535	Cotelette d'agneau	Calorie 535	234	gr_ingredient 535	Agneau	Categorie 535	Viandes
+Ingredient 536	Lamb Mince	FRingredient 536	Agneau hache	Calorie 536	282	gr_ingredient 536	Agneau	Categorie 536	Viandes
+Ingredient 537	Lamb Shoulder	FRingredient 537	Epaule d'agneau	Calorie 537	287	gr_ingredient 537	Agneau	Categorie 537	Viandes
+Ingredient 538	Lean Minced Beef	FRingredient 538	Boeuf emince finement	Calorie 538	147	gr_ingredient 538	Boeuf	Categorie 538	Viandes
+Ingredient 539	Mackerel	FRingredient 539	Maquereau	Calorie 539	180	gr_ingredient 539	Maquereau	Categorie 539	Viandes
+Ingredient 540	Minced Beef	FRingredient 540	boeuf emince	Calorie 540	147	gr_ingredient 540	Boeuf	Categorie 540	Viandes
+Ingredient 541	Minced Pork	FRingredient 541	Pork emince	Calorie 541	125	gr_ingredient 541	Pork emince	Categorie 541	Viandes
+Ingredient 542	Mincemeat	FRingredient 542	Viande hachee	Calorie 542	241	gr_ingredient 542	Viande hachee	Categorie 542	Viandes
+Ingredient 543	Monkfish	FRingredient 543	La lotte	Calorie 543	97	gr_ingredient 543	La lotte	Categorie 543	Viandes
+Ingredient 544	Mussels	FRingredient 544	Moules	Calorie 544	172	gr_ingredient 544	Moules	Categorie 544	Viandes
+Ingredient 545	Oysters	FRingredient 545	Huitres	Calorie 545	199	gr_ingredient 545	Huitres	Categorie 545	Viandes
+Ingredient 546	Parma Ham	FRingredient 546	Jambon de Parme	Calorie 546	121	gr_ingredient 546	Jambon de Parme	Categorie 546	Viandes
+Ingredient 547	Pilchards	FRingredient 547	Sardines	Calorie 547	191	gr_ingredient 547	Sardines	Categorie 547	Viandes
+Ingredient 548	Polish Sausage	FRingredient 548	Saucisse polonaise	Calorie 548	326	gr_ingredient 548	Saucisse polonaise	Categorie 548	Viandes
+Ingredient 549	Pork	FRingredient 549	Porc	Calorie 549	242	gr_ingredient 549	Porc	Categorie 549	Viandes
+Ingredient 550	Pork Chops	FRingredient 550	Cotes de porc	Calorie 550	231	gr_ingredient 550	Porc	Categorie 550	Viandes
+Ingredient 551	Prawns	FRingredient 551	Crevettes	Calorie 551	99	gr_ingredient 551	Crevettes	Categorie 551	Viandes
+Ingredient 552	Prosciutto	FRingredient 552	jambon	Calorie 552	145	gr_ingredient 552	jambon	Categorie 552	Viandes
+Ingredient 553	Raw King Prawns	FRingredient 553	Crevettes royales crues	Calorie 553	94	gr_ingredient 553	Crevettes royales crues	Categorie 553	Viandes
+Ingredient 554	Red Snapper	FRingredient 554	Vivaneau	Calorie 554	128	gr_ingredient 554	Vivaneau	Categorie 554	Viandes
+Ingredient 555	Salmon	FRingredient 555	Saumon	Calorie 555	180	gr_ingredient 555	Saumon	Categorie 555	Viandes
+Ingredient 556	Salt Cod	FRingredient 556	morue salee	Calorie 556	113	gr_ingredient 556	morue	Categorie 556	Viandes
+Ingredient 557	Sardines	FRingredient 557	sardines	Calorie 557	191	gr_ingredient 557	sardines	Categorie 557	Viandes
+Ingredient 558	Sausages	FRingredient 558	Saucisses	Calorie 558	346	gr_ingredient 558	Saucisses	Categorie 558	Viandes
+Ingredient 559	Smoked Haddock	FRingredient 559	Haddock	Calorie 559	81	gr_ingredient 559	Haddock	Categorie 559	Viandes
+Ingredient 560	Smoked Salmon	FRingredient 560	Saumon Fume	Calorie 560	117	gr_ingredient 560	Saumon Fume	Categorie 560	Viandes
+Ingredient 561	Squid	FRingredient 561	Calamar	Calorie 561	175	gr_ingredient 561	Calamar	Categorie 561	Viandes
+Ingredient 562	Tiger Prawns	FRingredient 562	Gambas	Calorie 562	98	gr_ingredient 562	Gambas	Categorie 562	Viandes
+Ingredient 563	Tripe	FRingredient 563	Tripes	Calorie 563	131	gr_ingredient 563	Tripes	Categorie 563	Viandes
+Ingredient 564	Tuna	FRingredient 564	Thon	Calorie 564	130	gr_ingredient 564	Thon	Categorie 564	Viandes
+Ingredient 565	Turkey Mince	FRingredient 565	Dinde hachee	Calorie 565	203	gr_ingredient 565	Dinde hachee	Categorie 565	Viandes
+Ingredient 566	Veal	FRingredient 566	Veau	Calorie 566	172	gr_ingredient 566	Veau	Categorie 566	Viandes
+Ingredient 567	White Fish	FRingredient 567	poisson blanc	Calorie 567	172	gr_ingredient 567	poisson blanc	Categorie 567	Viandes
+Ingredient 568	White Fish Fillets	FRingredient 568	Poisson blanc Filets	Calorie 568	110	gr_ingredient 568	poisson blanc	Categorie 568	Viandes
+Ingredient 569	Wonton Skin	FRingredient 569	peau de wonton	Calorie 569	291	gr_ingredient 569	peau de wonton	Categorie 569	Viandes
